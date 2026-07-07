@@ -1,4 +1,4 @@
-# N-Body Problem in Jacobi Coordinates Toolbox (MATLAB)
+# N-Body Problem in Jacobi Coordinates Toolkit (MATLAB)
 
 ## Summary
 
